@@ -15,7 +15,7 @@ Este proyecto consiste en el desarrollo del backend para un sistema de administr
 - **Express.js** - Framework para la construcción de APIs.
 - **MongoDB** (o MySQL) - Base de datos para almacenamiento de productos e inventario.
 - **Mongoose** (para MongoDB) o Sequelize (para MySQL) - ORM para interactuar con la base de datos.
-- **Postman / Thunder Client** - Para pruebas de API.
+- **Postman / Thunder Client** - Para pruebas de API. (https://www.postman.com/downloads/)
 
 ## 📂 Estructura del Proyecto
 ```
