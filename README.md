@@ -35,7 +35,7 @@ npm start
 _El inventario se ejecutará en_ `http://localhost:3000`
 
 
-📡 API Endpoints
+## 📡 API Endpoints
 
 GET /api/productos – Lista todos los productos.
 
