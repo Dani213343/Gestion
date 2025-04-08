@@ -45,7 +45,7 @@ PUT /api/productos/:id – Actualiza un producto existente.
 
 DELETE /api/productos/:id – Elimina un producto.
 
-📌 Notas
+## 📌 Notas
 Asegúrate de que MongoDB esté corriendo en tu máquina.
 
 Puedes modificar los estilos usando Tailwind CSS en el frontend.
