@@ -87,6 +87,7 @@ node server.js
 El backend estará disponible en:
 
 http://localhost:5000
+
 3. Configurar el Frontend
 
 En otra terminal, ingresar a la carpeta del frontend:
@@ -104,6 +105,7 @@ npm start
 El frontend estará disponible en:
 
 http://localhost:3000
+
 📡 API REST
 
 La aplicación cuenta con los siguientes endpoints para la gestión de productos:
